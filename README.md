@@ -36,7 +36,7 @@ Durante o projeto foram realizadas etapas de:
 ## Dataset
 
 Dataset público da Olist disponibilizado no Kaggle.
-Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com
+Link: www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ## Autor
